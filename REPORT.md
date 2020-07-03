@@ -53,7 +53,7 @@ Score of second trial:
 </div> 
 
 
-Here is also a video showing performance of agent in environment v1:
+Here is also a video showing performance of agent in the environment:
 <div align="center">
 	<img src="images/vid.gif" width=500px>
 </div> 

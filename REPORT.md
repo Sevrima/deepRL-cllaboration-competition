@@ -38,7 +38,7 @@ Hyperparameters:
 - n_episodes: 3000
 
 ### 3- Results:
-I trained the agent with two different senarios. First, using shared actor-critic, and then tested with separate actor-critic and bufferes. 
+I trained the agent with two different senarios. First, using shared actor-critic, and then tested with separate actor-critic and buffer (this times I changed the network structures). 
 
 Score of first trial:
 

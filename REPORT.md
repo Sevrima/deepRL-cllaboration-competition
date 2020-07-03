@@ -43,19 +43,19 @@ I trained the agent with two different senarios. First, using shared actor-criti
 Score of first trial:
 
 <div align="center">
-	<img src="images/1.png" width=500px>
+	<img src="Images/1.png" width=500px>
 </div> 
 
 Score of second trial:
 
 <div align="center">
-	<img src="images/2.png" width=500px>
+	<img src="Images/2.png" width=500px>
 </div> 
 
 
 Here is also a video showing performance of agent in the environment:
 <div align="center">
-	<img src="images/vid.gif" width=500px>
+	<img src="Images/vid.gif" width=500px>
 </div> 
 
 ### 4- Future works to improve the agent:

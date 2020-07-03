@@ -1,10 +1,12 @@
 
 ## PROJECT-3 Collaboration and Competition
 ### 1- Pseudocode of the Employed Algorithm; MADDPG
+
 For detailed information about the algorithm see this paper: https://arxiv.org/pdf/1706.02275.pdf
-<div align="center">
-	<img src="images/maddpg.png" width=800px>
-</div> 
+
+<P align="center">
+	<img src="images/maddpg.png" width=700px>
+</P> 
 
 
 ### 2- Actor-Critic Networks and Tuned Hyperparameters

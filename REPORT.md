@@ -5,7 +5,7 @@
 For detailed information about the algorithm see this paper: https://arxiv.org/pdf/1706.02275.pdf
 
 <P align="center">
-	<img src="images/maddpg.png" width=700px>
+	<img src="Images/maddpg.png" width=700px>
 </P> 
 
 
